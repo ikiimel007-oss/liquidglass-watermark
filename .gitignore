@@ -1,0 +1,14 @@
+.gradle/
+build/
+**/build/
+.kotlin/
+.idea/
+.DS_Store
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin JS 工具残留
+kotlin-js-store/
