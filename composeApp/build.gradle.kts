@@ -54,11 +54,11 @@ kotlin {
 
 android {
     namespace = "com.liquidglass.watermark"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0.0"
     }
